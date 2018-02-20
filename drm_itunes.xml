@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2018-02-08T16:16:42Z</date>
+	<key>Application Version</key><string>12.7.3.46</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/garrisonlemasters/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>E2C1E44874E953B8</string>
+	<key>Tracks</key>
+	<dict>
+		<key>1494</key>
+		<dict>
+			<key>Track ID</key><integer>1494</integer>
+			<key>Name</key><string>Take on Me</string>
+			<key>Artist</key><string>NO BS! Brass</string>
+			<key>Album Artist</key><string>NO BS! Brass</string>
+			<key>Album</key><string>Alive in Richmond 2.0</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7379988</integer>
+			<key>Total Time</key><integer>195440</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2015-09-21T01:32:36Z</date>
+			<key>Date Added</key><date>2014-09-22T19:17:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3541067864</integer>
+			<key>Play Date UTC</key><date>2016-03-17T17:57:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-10-13T18:22:24Z</date>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>5314</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Alive in Richmond 2.0</string>
+			<key>Sort Artist</key><string>NO BS! Brass</string>
+			<key>Sort Name</key><string>Take on Me</string>
+			<key>Persistent ID</key><string>E3B56D40EF180A73</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/garrisonlemasters/Music/iTunes/iTunes%20Media/Music/NO%20BS!%20Brass/Alive%20in%20Richmond%202.0/16%20Take%20on%20Me.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1496</key>
+		<dict>
+			<key>Track ID</key><integer>1496</integer>
+			<key>Name</key><string>Splatter Splatter</string>
+			<key>Artist</key><string>Moxy Fruvous</string>
+			<key>Album Artist</key><string>Moxy Fruvous</string>
+			<key>Composer</key><string>Unknown</string>
+			<key>Album</key><string>Thornhill</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6476758</integer>
+			<key>Total Time</key><integer>179731</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2015-09-21T01:32:32Z</date>
+			<key>Date Added</key><date>2013-11-07T00:31:00Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3575360579</integer>
+			<key>Play Date UTC</key><date>2017-04-18T15:42:59Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-09-21T00:28:30Z</date>
+			<key>Normalization</key><integer>6789</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Thornhill</string>
+			<key>Sort Artist</key><string>Moxy Fruvous</string>
+			<key>Sort Name</key><string>Splatter Splatter</string>
+			<key>Persistent ID</key><string>2C75C312BA0835DA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/garrisonlemasters/Music/iTunes/iTunes%20Media/Music/Moxy%20Fruvous/Thornhill/07%20Splatter%20Splatter.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1498</key>
+		<dict>
+			<key>Track ID</key><integer>1498</integer>
+			<key>Name</key><string>Journey of the Sorcerer</string>
+			<key>Artist</key><string>Eagles</string>
+			<key>Album Artist</key><string>Eagles</string>
+			<key>Album</key><string>The Studio Albums 1972-1979</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>13972779</integer>
+			<key>Total Time</key><integer>396921</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>6</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-09-21T01:32:52Z</date>
+			<key>Date Added</key><date>2013-10-31T09:33:54Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3594875816</integer>
+			<key>Play Date UTC</key><date>2017-11-30T13:36:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Normalization</key><integer>1270</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Studio Albums 1972-1979</string>
+			<key>Sort Artist</key><string>Eagles</string>
+			<key>Sort Name</key><string>Journey of the Sorcerer</string>
+			<key>Persistent ID</key><string>F56D65BD72A6A9D2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/garrisonlemasters/Music/iTunes/iTunes%20Media/Music/Eagles/The%20Studio%20Albums%201972-1979/4-04%20Journey%20of%20the%20Sorcerer.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1502</key>
+		<dict>
+			<key>Track ID</key><integer>1502</integer>
+			<key>Name</key><string>Hammer to Fall (Single Version)</string>
+			<key>Artist</key><string>Queen</string>
+			<key>Album Artist</key><string>Queen</string>
+			<key>Composer</key><string>Brian May</string>
+			<key>Album</key><string>Queen: Greatest Hits I &#38; II</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8378090</integer>
+			<key>Total Time</key><integer>220466</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2015-09-21T01:32:47Z</date>
+			<key>Date Added</key><date>2009-01-12T10:06:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>(Single Version)</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3539150050</integer>
+			<key>Play Date UTC</key><date>2016-02-24T14:14:10Z</date>
+			<key>Normalization</key><integer>1999</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Queen: Greatest Hits I &#38; II</string>
+			<key>Sort Artist</key><string>Queen</string>
+			<key>Sort Name</key><string>Hammer to Fall (Single Version)</string>
+			<key>Persistent ID</key><string>FD7EBB2AA180B0BD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/garrisonlemasters/Music/iTunes/iTunes%20Media/Music/Queen/Queen_%20Greatest%20Hits%20I%20&#38;%20II/2-14%20Hammer%20to%20Fall%20(Single%20Version).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1504</key>
+		<dict>
+			<key>Track ID</key><integer>1504</integer>
+			<key>Name</key><string>MacArthur Park</string>
+			<key>Artist</key><string>Maynard Ferguson</string>
+			<key>Album Artist</key><string>Maynard Ferguson</string>
+			<key>Composer</key><string>J. Webb</string>
+			<key>Album</key><string>This Is Jazz #16</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>20737348</integer>
+			<key>Total Time</key><integer>597466</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2015-09-21T01:33:05Z</date>
+			<key>Date Added</key><date>2009-01-12T10:06:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3534519038</integer>
+			<key>Play Date UTC</key><date>2016-01-01T23:50:38Z</date>
+			<key>Normalization</key><integer>2087</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>This Is Jazz #16</string>
+			<key>Sort Artist</key><string>Maynard Ferguson</string>
+			<key>Sort Name</key><string>MacArthur Park</string>
+			<key>Persistent ID</key><string>3A68BE18CD0BA222</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/garrisonlemasters/Music/iTunes/iTunes%20Media/Music/Maynard%20Ferguson/This%20Is%20Jazz%20%2316/03%20MacArthur%20Park.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1506</key>
+		<dict>
+			<key>Track ID</key><integer>1506</integer>
+			<key>Name</key><string>Creep Live At (Le)Poisson Rouge</string>
+			<key>Artist</key><string>Carrie Manolakos</string>
+			<key>Album Artist</key><string>Carrie Manolakos</string>
+			<key>Album</key><string>Creep Live At (Le)Poisson Rouge - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10150198</integer>
+			<key>Total Time</key><integer>288993</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2015-09-21T01:32:37Z</date>
+			<key>Date Added</key><date>2013-07-06T13:39:52Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3595065362</integer>
+			<key>Play Date UTC</key><date>2017-12-02T18:16:02Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2015-10-16T09:27:56Z</date>
+			<key>Normalization</key><integer>3919</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Creep Live At (Le)Poisson Rouge - Single</string>
+			<key>Sort Artist</key><string>Carrie Manolakos</string>
+			<key>Sort Name</key><string>Creep Live At (Le)Poisson Rouge</string>
+			<key>Persistent ID</key><string>9C8A4A1A1BD27F4A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/garrisonlemasters/Music/iTunes/iTunes%20Media/Music/Carrie%20Manolakos/Creep%20Live%20At%20(Le)Poisson%20Rouge%20-%20Single/01%20Creep%20Live%20At%20(Le)Poisson%20Rouge.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1510</key>
+		<dict>
+			<key>Track ID</key><integer>1510</integer>
+			<key>Name</key><string>Big Country</string>
+			<key>Artist</key><string>Béla Fleck &#38; The Flecktones</string>
+			<key>Album Artist</key><string>Béla Fleck &#38; The Flecktones</string>
+			<key>Album</key><string>Béla Fleck &#38; The Flecktones: Greatest Hits of the 20th Century</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11425238</integer>
+			<key>Total Time</key><integer>333080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2015-09-21T01:32:38Z</date>
+			<key>Date Added</key><date>2009-02-09T00:49:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3572419259</integer>
+			<key>Play Date UTC</key><date>2017-03-15T14:40:59Z</date>
+			<key>Skip Date</key><date>2015-09-21T01:29:09Z</date>
+			<key>Normalization</key><integer>1144</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Béla Fleck &#38; The Flecktones: Greatest Hits of the 20th Century</string>
+			<key>Sort Artist</key><string>Béla Fleck &#38; The Flecktones</string>
+			<key>Sort Name</key><string>Big Country</string>
+			<key>Persistent ID</key><string>381D03D55DE25C10</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/garrisonlemasters/Music/iTunes/iTunes%20Media/Music/Compilations/Be%CC%81la%20Fleck%20&#38;%20The%20Flecktones_%20Greatest%20Hits%20of%20the%2020th%20Century/10%20Big%20Country.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1526</key>
+		<dict>
+			<key>Track ID</key><integer>1526</integer>
+			<key>Name</key><string>Take Down the Union Jack</string>
+			<key>Artist</key><string>Billy Bragg</string>
+			<key>Album Artist</key><string>Billy Bragg</string>
+			<key>Album</key><string>England, Half English</string>
+			<key>Genre</key><string>Singer/Songwriter</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7002723</integer>
+			<key>Total Time</key><integer>196293</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2015-09-21T01:32:39Z</date>
+			<key>Date Added</key><date>2009-02-09T00:49:41Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3533618787</integer>
+			<key>Play Date UTC</key><date>2015-12-22T13:46:27Z</date>
+			<key>Normalization</key><integer>894</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>England, Half English</string>
+			<key>Sort Artist</key><string>Billy Bragg</string>
+			<key>Sort Name</key><string>Take Down the Union Jack</string>
+			<key>Persistent ID</key><string>7E380FF256ECC061</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/garrisonlemasters/Music/iTunes/iTunes%20Media/Music/Billy%20Bragg/England,%20Half%20English/08%20Take%20Down%20the%20Union%20Jack.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1530</key>
+		<dict>
+			<key>Track ID</key><integer>1530</integer>
+			<key>Name</key><string>Quelqu'un m'a dit</string>
+			<key>Artist</key><string>Carla Bruni</string>
+			<key>Album Artist</key><string>Carla Bruni</string>
+			<key>Composer</key><string>Carla Bruni &#38; Leos Carax</string>
+			<key>Album</key><string>Quelqu'un m'a dit</string>
+			<key>Genre</key><string>French Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6045588</integer>
+			<key>Total Time</key><integer>166226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2015-09-21T01:32:46Z</date>
+			<key>Date Added</key><date>2013-11-05T09:28:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3544649803</integer>
+			<key>Play Date UTC</key><date>2016-04-28T04:56:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Normalization</key><integer>1652</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Quelqu'un m'a dit</string>
+			<key>Sort Artist</key><string>Carla Bruni</string>
+			<key>Sort Name</key><string>Quelqu'un m'a dit</string>
+			<key>Persistent ID</key><string>C203874280800632</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/garrisonlemasters/Music/iTunes/iTunes%20Media/Music/Carla%20Bruni/Quelqu'un%20m'a%20dit/01%20Quelqu'un%20m'a%20dit.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1532</key>
+		<dict>
+			<key>Track ID</key><integer>1532</integer>
+			<key>Name</key><string>Pure Imagination</string>
+			<key>Artist</key><string>Fiona Apple</string>
+			<key>Album Artist</key><string>Fiona Apple</string>
+			<key>Album</key><string>Pure Imagination - Single</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7297858</integer>
+			<key>Total Time</key><integer>200662</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2015-09-21T01:32:38Z</date>
+			<key>Date Added</key><date>2013-10-30T18:11:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3594874980</integer>
+			<key>Play Date UTC</key><date>2017-11-30T13:23:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-09-21T00:28:36Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2078</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pure Imagination - Single</string>
+			<key>Sort Artist</key><string>Fiona Apple</string>
+			<key>Sort Name</key><string>Pure Imagination</string>
+			<key>Persistent ID</key><string>DAE41C4CAE2D2507</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/garrisonlemasters/Music/iTunes/iTunes%20Media/Music/Fiona%20Apple/Pure%20Imagination%20-%20Single/01%20Pure%20Imagination.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1536</key>
+		<dict>
+			<key>Track ID</key><integer>1536</integer>
+			<key>Name</key><string>Girls Just Want to Have Fun (Demo)</string>
+			<key>Artist</key><string>Greg Laswell</string>
+			<key>Album Artist</key><string>Greg Laswell</string>
+			<key>Album</key><string>Girls Just Want to Have Fun (Demo) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>5444687</integer>
+			<key>Total Time</key><integer>156923</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2015-09-21T01:32:33Z</date>
+			<key>Date Added</key><date>2009-03-22T17:49:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3494989336</integer>
+			<key>Play Date UTC</key><date>2014-10-01T10:22:16Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2015-09-21T00:28:14Z</date>
+			<key>Normalization</key><integer>520</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Girls Just Want to Have Fun (Demo) - Single</string>
+			<key>Sort Artist</key><string>Greg Laswell</string>
+			<key>Sort Name</key><string>Girls Just Want to Have Fun (Demo)</string>
+			<key>Persistent ID</key><string>9FC859B85CE07F50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/garrisonlemasters/Music/iTunes/iTunes%20Media/Music/Greg%20Laswell/Girls%20Just%20Want%20to%20Have%20Fun%20(Demo)%20-%20Single/01%20Girls%20Just%20Want%20to%20Have%20Fun%20(Demo).m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1540</key>
+		<dict>
+			<key>Track ID</key><integer>1540</integer>
+			<key>Name</key><string>Jerusalem</string>
+			<key>Artist</key><string>Dan Bern</string>
+			<key>Album Artist</key><string>Dan Bern</string>
+			<key>Composer</key><string>D. Bern</string>
+			<key>Album</key><string>Dan Bern</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7969981</integer>
+			<key>Total Time</key><integer>224426</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2015-09-21T01:32:31Z</date>
+			<key>Date Added</key><date>2009-01-12T10:06:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3531207895</integer>
+			<key>Play Date UTC</key><date>2015-11-24T16:04:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-09-21T00:28:10Z</date>
+			<key>Normalization</key><integer>1666</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dan Bern</string>
+			<key>Sort Artist</key><string>Dan Bern</string>
+			<key>Sort Name</key><string>Jerusalem</string>
+			<key>Persistent ID</key><string>F95E7D8FAAB70FFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file:///Users/garrisonlemasters/Music/iTunes/iTunes%20Media/Music/Dan%20Bern/Dan%20Bern/01%20Jerusalem.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1560</key>
+		<dict>
+			<key>Track ID</key><integer>1560</integer>
+			<key>Name</key><string>See You Space Cowboy...</string>
+			<key>Artist</key><string>Mai Yamane</string>
+			<key>Composer</key><string>Yoko Kanno</string>
+			<key>Album</key><string>Cowboy Bebop OST 3 - BLUE</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>13047749</integer>
+			<key>Total Time</key><integer>355501</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2015-09-21T01:32:55Z</date>
+			<key>Date Added</key><date>2013-01-31T20:13:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3533876718</integer>
+			<key>Play Date UTC</key><date>2015-12-25T13:25:18Z</date>
+			<key>Normalization</key><integer>2052</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4D2E0547AFFBEC46</string>
+			<key>Track Type</key><string>File</string>
+			<key>Matched</key><true/>
+			<key>Location</key><string>file:///Users/garrisonlemasters/Music/iTunes/iTunes%20Media/Music/Compilations/Cowboy%20Bebop%20OST%203%20-%20BLUE/17%20See%20You%20Space%20Cowboy....m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1588</key>
+		<dict>
+			<key>Track ID</key><integer>1588</integer>
+			<key>Name</key><string>Glory Box</string>
+			<key>Artist</key><string>Portishead</string>
+			<key>Album</key><string>Dummy</string>
+			<key>Kind</key><string>Matched AAC audio file</string>
+			<key>Size</key><integer>10552169</integer>
+			<key>Total Time</key><integer>304693</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2015-09-21T01:32:37Z</date>
+			<key>Date Added</key><date>2013-01-31T20:14:32Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Adjusted by iVolume 10/09/2006 23:16:10
+</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3562669609</integer>
+			<key>Play Date UTC</key><date>2016-11-22T19:26:49Z</date>
+			<key>Skip Date</key><date>2015-09-21T01:28:54Z</date>
+			<key>Normalization</key><integer>1423</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>17475BB17E0B7B90</string>
+			<key>Track Type</key><string>File</string>
+			<key>Matched</key><true/>
+			<key>Location</key><string>file:///Users/garrisonlemasters/Music/iTunes/iTunes%20Media/Music/Portishead/Dummy/11%20Glory%20Box.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>cooool</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>31771</integer>
+			<key>Playlist Persistent ID</key><string>1DFA8BDCC9C6E8C4</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>1540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1494</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1496</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1530</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1536</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1532</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1588</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1506</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1510</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1504</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1526</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1560</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1502</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1498</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
